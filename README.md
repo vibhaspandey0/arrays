@@ -1,2 +1,1 @@
-# arrays
-PW PPT Program mock test Question- Answer
+Here are questions and their solution of mocktest which is organized by PW.
